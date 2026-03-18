@@ -1,1 +1,1 @@
-git@github.com:kalingmm/zakrivayuschiy-teg-f.git
+https://github.com/kalingmm/zakrivayuschiy-teg-f
